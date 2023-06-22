@@ -1,0 +1,44 @@
+/* Put yor own CSS code here when needed */
+body {
+    overflow-x: hidden;
+}
+
+.bg-light-red {
+    background-color: #A53F2B;
+}
+
+.bg-light-pink {
+    background-color: #EACDC2;
+}
+
+.bg-dark-purple {
+    background-color: #331E38;
+}
+
+.bg-light-grey {
+    background-color: #637074;
+}
+
+.bg-light-blue {
+    background-color: #7272AB;
+}
+
+.background-about{
+    background: url(../img/rein.jpg) ;
+    background-size: cover;
+}
+
+.bgcat2 {
+    background-image: url(../img/rback.jpg);
+    background-size: cover;
+}
+
+.bgCat2-1 {
+    background-image: url(../img/actbg.jpg);
+    background-size: cover;
+}
+
+.bgCat2-2 {
+    background-image: url(../img/ubibg.webp);
+    background-size: cover;
+}
